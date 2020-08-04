@@ -11,4 +11,3 @@ Sou um iniciante e apaixonando em programar
  
  
  
-https://github.com/tgmarinho/tgmarinho/blob/master/banner.png?raw=true
