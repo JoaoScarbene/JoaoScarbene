@@ -1,7 +1,7 @@
 
 # João Pedro
 ## Olá galera!🖖
-Sou um iniciante e apaixonando em programar
+Sou um iniciante e apaixonado em programar
 
 ✏️Sou um estudante do 3° ano do ensino médio e pretendo fazer de faculdade Ciencia da Computação 
  <br/> &nbsp; Sobre mim: Gosto de tecnologias em geral, games como CS, LOL e Valorant, filmes e series 
